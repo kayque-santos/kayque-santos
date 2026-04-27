@@ -39,7 +39,7 @@
 
 ```yaml
 nome:        Kayque Santos
-cargo:       Assistente de BI & Desenvolvimento de Dados @ Efizi
+cargo:       Analista de BI & Desenvolvimento de Dados @ Efizi
 formacao:    Análise e Desenvolvimento de Sistemas — Faculdade UCL
 foco:        Engenharia de Dados · BI · Automação Inteligente · LLMs
 filosofia:   Dados confiáveis geram decisões melhores
