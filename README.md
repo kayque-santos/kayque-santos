@@ -3,7 +3,7 @@
 <!-- ========================================== -->
 
 <a href="https://github.com/kayque-santos">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Kayque%20Santos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%26%20BI%20Developer&descAlignY=58&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=240&section=header&text=Kayque%20Santos&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Engineer%20%26%20BI%20Developer&descAlignY=62&descSize=22&descColor=E0E7FF&animation=fadeIn" alt="Kayque Santos - Data Engineer & BI Developer" width="100%" />
 </a>
 
 <div align="center">
