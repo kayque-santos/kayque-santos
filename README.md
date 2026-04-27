@@ -1,74 +1,201 @@
-# 👋 E aí, eu sou o Kayque!
+<!-- ========================================== -->
+<!--  HEADER ANIMADO                            -->
+<!-- ========================================== -->
 
-**Data Engineer & BI Developer** | Transformando dados em decisões através de pipelines, dashboards e automações inteligentes.
+<a href="https://github.com/kayque-santos">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Kayque%20Santos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%26%20BI%20Developer&descAlignY=58&descSize=20" alt="header" />
+</a>
 
-🏢 Atualmente na **Efizi** desenvolvendo soluções end-to-end de dados e IA
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade UCL
-📍 Serra, ES — Brasil
-📫 kayques.es@gmail.com
+<div align="center">
 
----
+<!-- Subheader animado de funções -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=Pipelines+de+ETL%2FELT;Dashboards+estrat%C3%A9gicos+em+Power+BI;Aplica%C3%A7%C3%B5es+com+LLMs+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+inteligente+com+Python+%26+n8n" alt="typing" />
+</a>
 
-## 🛠️ Stack Técnica
+<br/>
 
-**Linguagens**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Métricas leves do perfil -->
+<a href="https://github.com/kayque-santos?tab=followers">
+  <img src="https://img.shields.io/github/followers/kayque-santos?label=Followers&style=flat-square&color=2563EB&labelColor=0F172A" alt="followers"/>
+</a>
+<a href="https://linkedin.com/in/kayquesantos3434">
+  <img src="https://img.shields.io/badge/LinkedIn-Kayque%20Santos-2563EB?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A" alt="linkedin"/>
+</a>
+<a href="mailto:kayques.es@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kayques.es%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A" alt="email"/>
+</a>
+<img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Serra%2C%20ES%20%E2%80%94%20BR-2563EB?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0F172A" alt="local"/>
 
-**Engenharia de Dados**
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+</div>
 
-**Bancos & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br/>
 
-**BI & Visualização**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<!-- ========================================== -->
+<!--  SOBRE                                     -->
+<!-- ========================================== -->
 
-**IA & LLMs**
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/fluency/32/000000/info.png"/><img src="https://img.icons8.com/fluency/32/000000/info.png" width="22"/></picture> Sobre mim
 
-**Ferramentas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```yaml
+nome:        Kayque Santos
+cargo:       Assistente de BI & Desenvolvimento de Dados @ Efizi
+formacao:    Análise e Desenvolvimento de Sistemas — Faculdade UCL
+foco:        Engenharia de Dados · BI · Automação Inteligente · LLMs
+filosofia:   Dados confiáveis geram decisões melhores
+```
 
----
+Construo soluções **end-to-end de dados**: da extração (web scraping, APIs, ERPs) até a entrega de
+dashboards estratégicos, pipelines automatizados e aplicações com **LLMs em produção**.
+Atualmente focado em **Modern Data Stack** (Airbyte · dbt · BigQuery) e **arquiteturas RAG multimodais**.
 
-## 🚀 No que estou trabalhando
+<br/>
 
-- 🤖 **Chatbots RAG multimodais** com Gemini + n8n + Supabase pgvector
-- 📊 **Dashboards de observabilidade** em Grafana conectados a PostgreSQL/BigQuery
-- ⚙️ **Pipelines de ETL/ELT** para integração de ERPs e marketplaces
-- 🕸️ **Automação de inteligência competitiva** via web scraping
+<!-- ========================================== -->
+<!--  STACK                                     -->
+<!-- ========================================== -->
 
-## 🌱 Estudando agora
+## <img src="https://img.icons8.com/fluency/32/000000/maintenance.png" width="22"/> Stack Técnica
 
-- Modern Data Stack (Airbyte + dbt + BigQuery)
-- MLOps e deploy de modelos em produção
-- Arquiteturas avançadas de RAG e agentes de IA
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+#### Engenharia de Dados
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 
-## 📊 Estatísticas
+#### Bancos & Cloud
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayque-santos&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayque-santos&layout=compact&theme=tokyonight&hide_border=true)
+</td>
+<td valign="top" width="50%">
 
----
+#### BI & Visualização
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-1E40AF?style=flat-square&logo=microsoft&logoColor=white" />
 
-## 📫 Vamos conversar?
+#### IA & LLMs
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kayquesantos3434)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayques.es@gmail.com)
+#### DevOps & Ferramentas
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white" />
 
----
+</td>
+</tr>
+</table>
 
-⚡ *"Dados confiáveis geram decisões melhores. É isso que eu construo."*
+<br/>
+
+<!-- ========================================== -->
+<!--  PROJETOS                                  -->
+<!-- ========================================== -->
+
+## <img src="https://img.icons8.com/fluency/32/000000/launched-rocket.png" width="22"/> Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Chatbot RAG Multimodal
+> Atendimento ao cliente automatizado com texto, áudio e PDF.
+> Arquitetura orquestrada em **n8n** com **Gemini** como LLM e
+> **Supabase pgvector** para recuperação semântica.
+
+`Gemini` `n8n` `Supabase` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### Observabilidade de Dados
+> Dashboards em **Grafana** conectados a **PostgreSQL** e **BigQuery**
+> para monitoramento em tempo real de pipelines de ETL e
+> qualidade de chatbot RAG em produção.
+
+`Grafana` `PostgreSQL` `BigQuery` `SQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Inteligência Competitiva
+> Pipeline de **web scraping** para coleta automatizada de preços
+> de concorrentes e dados logísticos, com persistência em
+> **PostgreSQL** e consumo direto em dashboards de BI.
+
+`Python` `BeautifulSoup` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### Pipelines de ETL/ELT
+> Ingestão de dados de **ERPs (Bling, Anymarket)** e fontes externas
+> em **PostgreSQL** e **BigQuery**, com monitoramento de falhas e
+> métricas de consistência.
+
+`Python` `n8n` `BigQuery` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================================== -->
+<!--  STATS                                     -->
+<!-- ========================================== -->
+
+## <img src="https://img.icons8.com/fluency/32/000000/combo-chart.png" width="22"/> GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kayque-santos&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=475569&bg_color=ffffff&hide=issues&count_private=true" />
+</a>
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayque-santos&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=ffffff&langs_count=8" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!--  FOOTER                                    -->
+<!-- ========================================== -->
+
+<div align="center">
+
+### Vamos construir algo juntos?
+
+<a href="https://linkedin.com/in/kayquesantos3434">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kayques.es@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/kayque-santos">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer" />
+
+</div>
