@@ -1,20 +1,10 @@
 <!-- ════════════════════════════════════════════════════════════════
-     HEADER — Banner adaptativo (light/dark)
+     HEADER — Banner adaptativo
 ════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/kayque-santos">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg" />
-    <img src="./banner.svg" alt="Kayque Santos — Data Engineer & Data Scientist" width="100%" />
-  </picture>
+  <img src="./banner.svg" alt="Kayque Santos — Data Engineer · Data Scientist · BI Developer" width="100%" />
 </a>
-
-<div align="center">
-
-<!-- Typing animado sutil — uma única linha de posicionamento -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Data+Engineer+%C2%B7+Data+Scientist+%C2%B7+BI+Developer;Transformando+dados+em+decis%C3%B5es+%E2%80%94+pipeline+por+pipeline" alt="role" />
-
-</div>
 
 <br/>
 
@@ -22,7 +12,7 @@
      SOBRE
 ════════════════════════════════════════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/Flat/waving_hand_flat_default.svg"/><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/Flat/waving_hand_flat_default.svg" width="26"/></picture>&nbsp; whoami
+## &nbsp;whoami
 
 Sou **Kayque Santos**, engenheiro e cientista de dados baseado em Serra/ES.
 Atualmente atuo como **Analista de BI & Desenvolvimento de Dados na Efizi**,
@@ -38,10 +28,10 @@ saem do notebook e chegam à produção.
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════
-     NOW — O que estou fazendo agora (Derek Sivers' now.txt style)
+     NOW
 ════════════════════════════════════════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Direct%20hit/Flat/direct_hit_flat.svg"/><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Direct%20hit/Flat/direct_hit_flat.svg" width="24"/></picture>&nbsp; /now
+## &nbsp;/now
 
 ```text
 WORK       →  Construindo a camada analítica da Efizi sobre BigQuery + dbt
@@ -54,10 +44,10 @@ NEXT       →  Certificação Google Cloud — Professional Data Engineer
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════
-     STACK — Categorizada por uso
+     STACK
 ════════════════════════════════════════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/Flat/hammer_and_wrench_flat.svg"/><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/Flat/hammer_and_wrench_flat.svg" width="24"/></picture>&nbsp; Stack
+## &nbsp;Stack
 
 **Daily drivers** — uso todos os dias
 
@@ -102,10 +92,10 @@ NEXT       →  Certificação Google Cloud — Professional Data Engineer
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════
-     SHOWCASE — Projeto principal com profundidade
+     SELECTED WORK
 ════════════════════════════════════════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sparkles/Flat/sparkles_flat.svg"/><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sparkles/Flat/sparkles_flat.svg" width="24"/></picture>&nbsp; Selected Work
+## &nbsp;Selected Work
 
 ### Chatbot RAG Multimodal &nbsp;`featured`
 
@@ -135,7 +125,7 @@ flowchart LR
     LLM --> R([Resposta])
 ```
 
-`Gemini` `n8n` `Supabase` `pgvector` `Python`
+`Gemini` · `n8n` · `Supabase` · `pgvector` · `Python`
 
 <br/>
 
@@ -145,7 +135,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-###### 📈 Observabilidade de Dados
+###### Observabilidade de Dados
 Dashboards em **Grafana** conectados a PostgreSQL e BigQuery
 para monitoramento em tempo real de pipelines de ETL e qualidade
 de chatbot RAG em produção.
@@ -155,7 +145,7 @@ de chatbot RAG em produção.
 </td>
 <td width="50%" valign="top">
 
-###### 🕷️ Inteligência Competitiva
+###### Inteligência Competitiva
 Pipeline de **web scraping** para coleta automatizada de preços
 de concorrentes e dados logísticos, com consumo direto em
 dashboards de BI.
@@ -167,7 +157,7 @@ dashboards de BI.
 <tr>
 <td width="50%" valign="top">
 
-###### 🔄 Pipelines ELT corporativos
+###### Pipelines ELT corporativos
 Ingestão de dados de **ERPs (Bling, Anymarket)** em PostgreSQL
 e BigQuery, com monitoramento de falhas e métricas de
 consistência via dbt.
@@ -177,7 +167,7 @@ consistência via dbt.
 </td>
 <td width="50%" valign="top">
 
-###### 📊 Camada analítica corporativa
+###### Camada analítica corporativa
 Modelagem dimensional (star schema) sobre dados de marketplace,
 logística e financeiro para alimentar relatórios estratégicos
 em Power BI.
@@ -191,32 +181,29 @@ em Power BI.
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════
-     GITHUB STATS — Adaptativos light/dark
+     STATS
 ════════════════════════════════════════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Flat/bar_chart_flat.svg"/><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Flat/bar_chart_flat.svg" width="24"/></picture>&nbsp; Stats
+## &nbsp;Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kayque-santos&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=A855F7&icon_color=A855F7&text_color=cbd5e1&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kayque-santos&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=7c3aed&icon_color=A855F7&text_color=475569&bg_color=ffffff" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kayque-santos&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=cbd5e1&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayque-santos&layout=compact&hide_border=true&langs_count=8&title_color=7c3aed&text_color=475569&bg_color=ffffff" />
-</picture>
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kayque-santos&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=A855F7&icon_color=A855F7&text_color=cbd5e1&bg_color=0d1117" />
+</a>
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayque-santos&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=cbd5e1&bg_color=0d1117" />
+</a>
 
 </div>
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════
-     CONTATO — Footer minimalista
+     CONTATO
 ════════════════════════════════════════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Speech%20balloon/Flat/speech_balloon_flat.svg"/><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Speech%20balloon/Flat/speech_balloon_flat.svg" width="24"/></picture>&nbsp; Contato
+## &nbsp;Contato
 
 Aberto a colaborações em **engenharia de dados, ciência de dados e IA aplicada**.
 
