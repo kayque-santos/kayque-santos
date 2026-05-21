@@ -209,7 +209,7 @@ em Power BI.
 Aberto a colaborações em **engenharia de dados, ciência de dados e IA aplicada**.
 
 <p>
-<a href="https://linkedin.com/in/kayquesantos3434">
+<a href="https://linkedin.com/in/kayque-santosdev">
   <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 &nbsp;
