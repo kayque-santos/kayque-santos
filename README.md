@@ -188,11 +188,29 @@ em Power BI.
 
 <div align="center">
 
+<!-- Profile Summary Cards — funcionam mesmo com o github-readme-stats fora do ar -->
 <a href="https://github.com/kayque-santos">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kayque-santos&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=A855F7&icon_color=A855F7&text_color=cbd5e1&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayque-santos&theme=github_dark" width="98%" />
 </a>
+
+<br/><br/>
+
 <a href="https://github.com/kayque-santos">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayque-santos&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=cbd5e1&bg_color=0d1117" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayque-santos&theme=github_dark" />
+</a>
+&nbsp;
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayque-santos&theme=github_dark" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayque-santos&theme=github_dark" />
+</a>
+&nbsp;
+<a href="https://github.com/kayque-santos">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayque-santos&theme=github_dark&utcOffset=-3" />
 </a>
 
 </div>
