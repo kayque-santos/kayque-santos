@@ -3,7 +3,7 @@
 ════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/kayque-santos">
-  <img src="./banner.svg" alt="Kayque Santos — Data Engineer · Data Scientist · BI Developer" width="100%" />
+  <img src="./banner.svg" alt="Kayque Santos" width="100%" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
      SOBRE
 ════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;whoami
+## &nbsp;Sobre mim
 
 Sou **Kayque Santos**, engenheiro e cientista de dados baseado em Serra/ES.
 Atualmente atuo como **Analista de BI & Desenvolvimento de Dados na Efizi**,
@@ -31,14 +31,14 @@ saem do notebook e chegam à produção.
      NOW
 ════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;/now
+## &nbsp;Atualmente
 
 ```text
-WORK       →  Construindo a camada analítica da Efizi sobre BigQuery + dbt
-LEARNING   →  Engenharia de features · Apache Spark · Causal Inference
-BUILDING   →  Arquiteturas RAG multimodais com Claude e Gemini
-READING    →  Designing Data-Intensive Applications (M. Kleppmann)
-NEXT       →  Certificação Google Cloud — Professional Data Engineer
+TRABALHO   →  Construindo a camada analítica da Efizi sobre BigQuery + dbt
+ESTUDO     →  Engenharia de features · Apache Spark · Causal Inference
+CONSTRUO   →  Arquiteturas RAG multimodais com Claude e Gemini
+LEITURA    →  Designing Data-Intensive Applications (M. Kleppmann)
+PRÓXIMO    →  Certificação Google Cloud — Professional Data Engineer
 ```
 
 <br/>
@@ -49,13 +49,13 @@ NEXT       →  Certificação Google Cloud — Professional Data Engineer
 
 ## &nbsp;Stack
 
-**Daily drivers** — uso todos os dias
+**Uso diário** — minhas ferramentas principais
 
 `Python` · `SQL` · `PostgreSQL` · `BigQuery` · `dbt` · `Power BI` · `n8n` · `Git`
 
 <br/>
 
-**Toolbox** — uso regularmente conforme o projeto pede
+**Conforme o projeto** — uso regularmente quando faz sentido
 
 <table>
 <tr>
@@ -95,9 +95,9 @@ NEXT       →  Certificação Google Cloud — Professional Data Engineer
      SELECTED WORK
 ════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Selected Work
+## &nbsp;Projetos em destaque
 
-### Chatbot RAG Multimodal &nbsp;`featured`
+### Chatbot RAG Multimodal &nbsp;`destaque`
 
 Sistema de atendimento ao cliente automatizado capaz de processar **texto, áudio e
 documentos PDF** numa única conversa contextual. Orquestrado em n8n, com Gemini
@@ -188,29 +188,12 @@ em Power BI.
 
 <div align="center">
 
-<!-- Profile Summary Cards — funcionam mesmo com o github-readme-stats fora do ar -->
-<a href="https://github.com/kayque-santos">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayque-santos&theme=github_dark" width="98%" />
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/kayque-santos">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayque-santos&theme=github_dark" />
 </a>
 &nbsp;
 <a href="https://github.com/kayque-santos">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayque-santos&theme=github_dark" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/kayque-santos">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayque-santos&theme=github_dark" />
-</a>
-&nbsp;
-<a href="https://github.com/kayque-santos">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayque-santos&theme=github_dark&utcOffset=-3" />
 </a>
 
 </div>
